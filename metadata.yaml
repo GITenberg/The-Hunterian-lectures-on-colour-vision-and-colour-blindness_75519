@@ -1,0 +1,28 @@
+_repo: The-Hunterian-lectures-on-colour-vision-and-colour-blindness_75519
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edridge-Green, F. W.
+    gutenberg_agent_id: '58034'
+    url: http://www.gutenberg.org/2009/agents/58034
+description: ''
+gutenberg_issued: '2025-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75519'
+language: en
+pgterms:marc904: https://archive.org/details/b21287466
+pgterms:marc905: 20240123084853edridgegre
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Thiers Halliwell, deaurider and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bKegan Paul, Trench, Trübner & Co., Ltd., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Hunterian lectures on colour-vision and colour-blindness
+url: http://www.gutenberg.org/ebooks/75519
