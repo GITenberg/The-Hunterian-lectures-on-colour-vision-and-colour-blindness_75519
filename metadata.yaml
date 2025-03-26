@@ -1,11 +1,16 @@
 _repo: The-Hunterian-lectures-on-colour-vision-and-colour-blindness_75519
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75519-h/images/cover.jpg
 creator:
   author:
     agent_name: Edridge-Green, F. W.
     gutenberg_agent_id: '58034'
     url: http://www.gutenberg.org/2009/agents/58034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75519#The-Hunterian-lectures-on-colour-vision-and-colour-blindness
 gutenberg_issued: '2025-03-04'
 gutenberg_type: Text
 identifiers:
